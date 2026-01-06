@@ -37,6 +37,7 @@ Maintained by Manish Pareek
 | [1108-defanging-an-ip-address](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/1528-shuffle-string) |
 | [1768-merge-strings-alternately](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
+| [1816-truncate-sentence](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/1816-truncate-sentence) |
 | [1844-replace-all-digits-with-characters](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/1844-replace-all-digits-with-characters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Array
@@ -53,6 +54,7 @@ Maintained by Manish Pareek
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1528-shuffle-string](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/1528-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
+| [1816-truncate-sentence](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/1816-truncate-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3467-transform-array-by-parity](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
