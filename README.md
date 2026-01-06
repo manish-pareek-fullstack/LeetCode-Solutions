@@ -18,6 +18,7 @@ Maintained by Manish Pareek
 | [0189-rotate-array](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [1768-merge-strings-alternately](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
@@ -36,6 +37,7 @@ Maintained by Manish Pareek
 | [0189-rotate-array](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -73,6 +75,7 @@ Maintained by Manish Pareek
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0287-find-the-duplicate-number](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Matrix
@@ -87,6 +90,7 @@ Maintained by Manish Pareek
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Counting
 |  |
