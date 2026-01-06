@@ -37,6 +37,7 @@ Maintained by Manish Pareek
 | [1108-defanging-an-ip-address](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/1528-shuffle-string) |
 | [1768-merge-strings-alternately](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
+| [1844-replace-all-digits-with-characters](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/1844-replace-all-digits-with-characters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Array
 |  |
