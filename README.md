@@ -24,6 +24,7 @@ Maintained by Manish Pareek
 | [0905-sort-array-by-parity](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
+| [2460-apply-operations-to-an-array](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/2460-apply-operations-to-an-array) |
 ## String
 |  |
 | ------- |
@@ -59,6 +60,7 @@ Maintained by Manish Pareek
 | [1672-richest-customer-wealth](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1816-truncate-sentence](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/1816-truncate-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2460-apply-operations-to-an-array](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3467-transform-array-by-parity](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
 ## Sorting
@@ -143,4 +145,5 @@ Maintained by Manish Pareek
 | ------- |
 | [0412-fizz-buzz](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2460-apply-operations-to-an-array](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/2460-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
