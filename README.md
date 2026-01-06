@@ -24,6 +24,7 @@ Maintained by Manish Pareek
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0796-rotate-string](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [1768-merge-strings-alternately](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 ## Array
 |  |
@@ -83,4 +84,8 @@ Maintained by Manish Pareek
 |  |
 | ------- |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
