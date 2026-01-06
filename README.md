@@ -28,6 +28,7 @@ Maintained by Manish Pareek
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -58,4 +59,8 @@ Maintained by Manish Pareek
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
