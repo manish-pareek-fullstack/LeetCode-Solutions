@@ -13,6 +13,7 @@ Maintained by Manish Pareek
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0202-happy-number) |
@@ -23,6 +24,7 @@ Maintained by Manish Pareek
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0796-rotate-string](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [1768-merge-strings-alternately](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
