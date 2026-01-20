@@ -65,6 +65,7 @@ Maintained by Manish Pareek
 | [0283-move-zeroes](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0704-binary-search](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -90,6 +91,7 @@ Maintained by Manish Pareek
 | [0215-kth-largest-element-in-an-array](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [3467-transform-array-by-parity](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
@@ -127,6 +129,7 @@ Maintained by Manish Pareek
 | [0217-contains-duplicate](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 ## Binary Search
 |  |
