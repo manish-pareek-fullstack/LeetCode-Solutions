@@ -54,6 +54,7 @@ Maintained by Manish Pareek
 | [0016-3sum-closest](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -149,6 +150,7 @@ Maintained by Manish Pareek
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
@@ -194,6 +196,7 @@ Maintained by Manish Pareek
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
