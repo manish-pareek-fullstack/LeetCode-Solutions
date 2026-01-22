@@ -56,6 +56,7 @@ Maintained by Manish Pareek
 | [0049-group-anagrams](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0136-single-number) |
@@ -139,6 +140,7 @@ Maintained by Manish Pareek
 | ------- |
 | [0035-search-insert-position](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0704-binary-search) |
@@ -146,6 +148,7 @@ Maintained by Manish Pareek
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [1672-richest-customer-wealth](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Dynamic Programming
 |  |
