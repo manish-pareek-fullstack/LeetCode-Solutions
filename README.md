@@ -55,6 +55,7 @@ Maintained by Manish Pareek
 | [0035-search-insert-position](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
@@ -153,6 +154,7 @@ Maintained by Manish Pareek
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -201,6 +203,7 @@ Maintained by Manish Pareek
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
