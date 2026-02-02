@@ -50,6 +50,7 @@ Maintained by Manish Pareek
 | [1844-replace-all-digits-with-characters](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/1844-replace-all-digits-with-characters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2351-first-letter-to-appear-twice](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
+| [2810-faulty-keyboard](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/2810-faulty-keyboard) |
 ## Array
 |  |
 | ------- |
@@ -215,6 +216,7 @@ Maintained by Manish Pareek
 | [0867-transpose-matrix](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2460-apply-operations-to-an-array](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/2460-apply-operations-to-an-array) |
+| [2810-faulty-keyboard](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/2810-faulty-keyboard) |
 ## Divide and Conquer
 |  |
 | ------- |
