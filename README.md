@@ -52,6 +52,7 @@ Maintained by Manish Pareek
 | [1844-replace-all-digits-with-characters](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/1844-replace-all-digits-with-characters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2351-first-letter-to-appear-twice](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
+| [2390-removing-stars-from-a-string](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2810-faulty-keyboard](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/2810-faulty-keyboard) |
 ## Array
 |  |
@@ -217,6 +218,7 @@ Maintained by Manish Pareek
 | [0412-fizz-buzz](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2390-removing-stars-from-a-string](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2810-faulty-keyboard](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/2810-faulty-keyboard) |
 ## Divide and Conquer
@@ -252,4 +254,5 @@ Maintained by Manish Pareek
 | ------- |
 | [0020-valid-parentheses](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2390-removing-stars-from-a-string](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
