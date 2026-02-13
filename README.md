@@ -31,6 +31,7 @@ Maintained by Manish Pareek
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
@@ -61,6 +62,7 @@ Maintained by Manish Pareek
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0049-group-anagrams) |
@@ -264,4 +266,8 @@ Maintained by Manish Pareek
 | [1021-remove-outermost-parentheses](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
