@@ -36,6 +36,7 @@ Maintained by Manish Pareek
 | [0020-valid-parentheses](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0344-reverse-string) |
@@ -128,6 +129,7 @@ Maintained by Manish Pareek
 | [0007-reverse-integer](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0189-rotate-array) |
@@ -197,6 +199,7 @@ Maintained by Manish Pareek
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
@@ -234,6 +237,7 @@ Maintained by Manish Pareek
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
