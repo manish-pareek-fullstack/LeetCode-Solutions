@@ -8,10 +8,11 @@ public:
             sort(newstr.begin(), newstr.end());
             m[newstr].push_back(x);
         }
-        vector<vector<string>> ans;
+         vector<vector<string>> ans;
         for (auto x : m) {
             ans.push_back(x.second);
         }
         return ans;
+       
     }
 };
