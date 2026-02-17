@@ -15,6 +15,7 @@ Maintained by Manish Pareek
 | ------- |
 | [0016-3sum-closest](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0189-rotate-array) |
@@ -74,6 +75,7 @@ Maintained by Manish Pareek
 | [0073-set-matrix-zeroes](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0169-majority-element) |
@@ -113,6 +115,7 @@ Maintained by Manish Pareek
 | [0016-3sum-closest](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
