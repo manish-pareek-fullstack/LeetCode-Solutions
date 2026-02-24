@@ -231,6 +231,7 @@ Maintained by Manish Pareek
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0342-power-of-four) |
@@ -296,4 +297,8 @@ Maintained by Manish Pareek
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
