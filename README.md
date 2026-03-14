@@ -67,6 +67,7 @@ Maintained by Manish Pareek
 | [2351-first-letter-to-appear-twice](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2810-faulty-keyboard](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/2810-faulty-keyboard) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Array
 |  |
 | ------- |
@@ -117,6 +118,7 @@ Maintained by Manish Pareek
 | [2460-apply-operations-to-an-array](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3467-transform-array-by-parity](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
 ## Sorting
 |  |
@@ -185,6 +187,7 @@ Maintained by Manish Pareek
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2351-first-letter-to-appear-twice](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Binary Search
 |  |
 | ------- |
@@ -307,6 +310,7 @@ Maintained by Manish Pareek
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Monotonic Stack
 |  |
 | ------- |
