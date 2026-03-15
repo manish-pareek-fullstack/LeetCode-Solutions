@@ -3,8 +3,8 @@ public:
     void setZeroes(vector<vector<int>>& matrix) {
         int row=matrix.size();
         int col=matrix[0].size();
-        vector<bool>rowzero(row,false);
-        vector<bool>colzero(col,false);
+        vector<bool>rowzero(row);
+        vector<bool>colzero(col);
         for(int i=0;i<row;i++){
             for(int j=0;j<col;j++){
                 if(matrix[i][j]==0){
