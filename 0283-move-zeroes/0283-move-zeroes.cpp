@@ -1,23 +1,20 @@
 class Solution {
 public:
     void moveZeroes(vector<int>& nums) {
-        vector<int>ans;
+        vector<int>store;
         for(auto x:nums){
             if(x!=0){
-                ans.push_back(x);
+                store.push_back(x);
             }
         }
         int i=0;
-        for(auto x:ans){
+        for(auto x:store){
             nums[i]=x;
-                i++;
+            i++;
         }
         while(i<nums.size()){
-           nums[i]=0;
-           i++;  
+            nums[i]=0;
+            i++;
         }
-       for(auto x:nums){
-        cout<<x;
-       }
     }
 };
