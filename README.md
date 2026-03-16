@@ -13,6 +13,7 @@ Maintained by Manish Pareek
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -73,6 +74,7 @@ Maintained by Manish Pareek
 | ------- |
 | [0001-two-sum](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0049-group-anagrams) |
@@ -124,6 +126,7 @@ Maintained by Manish Pareek
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0075-sort-colors) |
