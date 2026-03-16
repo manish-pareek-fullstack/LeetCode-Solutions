@@ -1,21 +1,22 @@
 class Solution {
 public:
-    bool isPalindrome(string str) {
-        string text = "";
-        for (char ch : str) {
-            if (isalnum(ch)) {
-                text += tolower(ch);
+    bool isPalindrome(string s) {
+        string ans = "";
+        for (auto x : s) {
+            if (isalnum(x)) {
+                ans += tolower(x);
             }
         }
         int i = 0;
-        int j = text.size() - 1;
+        int j = ans.size() - 1;
         while (i < j) {
-            if (text[i] != text[j]) {
+            if (ans[i] != ans[j]) {
                 return false;
             }
             i++;
             j--;
         }
+
         return true;
     }
 };
