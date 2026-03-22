@@ -63,6 +63,7 @@ Maintained by Manish Pareek
 | [1768-merge-strings-alternately](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1816-truncate-sentence](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/1816-truncate-sentence) |
 | [1844-replace-all-digits-with-characters](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/1844-replace-all-digits-with-characters) |
+| [1903-largest-odd-number-in-string](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2351-first-letter-to-appear-twice](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -167,6 +168,7 @@ Maintained by Manish Pareek
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1903-largest-odd-number-in-string](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/2235-add-two-integers) |
@@ -342,4 +344,8 @@ Maintained by Manish Pareek
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
