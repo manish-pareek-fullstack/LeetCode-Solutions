@@ -66,6 +66,7 @@ Maintained by Manish Pareek
 | [1903-largest-odd-number-in-string](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2810-faulty-keyboard](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/2810-faulty-keyboard) |
