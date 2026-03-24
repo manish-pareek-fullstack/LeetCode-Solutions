@@ -120,6 +120,7 @@ Maintained by Manish Pareek
 | [1732-find-the-highest-altitude](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1816-truncate-sentence](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/1816-truncate-sentence) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -231,6 +232,7 @@ Maintained by Manish Pareek
 | [0152-maximum-product-subarray](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
