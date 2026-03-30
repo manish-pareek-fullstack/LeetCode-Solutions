@@ -99,6 +99,7 @@ Maintained by Manish Pareek
 | [0215-kth-largest-element-in-an-array](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
@@ -307,6 +308,7 @@ Maintained by Manish Pareek
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 ## Queue
