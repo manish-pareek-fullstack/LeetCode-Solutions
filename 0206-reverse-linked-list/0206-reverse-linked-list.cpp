@@ -11,19 +11,15 @@
 class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
-        ListNode* temp = head;
-        vector<int> store;
-        while (temp != NULL) {
-            store.push_back(temp->val);
-            temp = temp->next;
+        ListNode*prev=NULL;
+        ListNode*curnt=head;
+        ListNode*front=NULL;
+        while(curnt!=NULL){
+            front=curnt->next; // aage ka link toda or front me store kiya 
+            curnt->next=prev; //current ko aage leke gye 
+            prev=curnt; // prev ko bhi aage leke gye 
+            curnt=front; 
         }
-        int i = store.size() - 1;
-        ListNode * remp = head;
-        while (i >= 0) {
-            remp->val = store[i];
-            i--;
-            remp = remp->next;
-        }
-        return head;
+        return prev;
     }
 };
