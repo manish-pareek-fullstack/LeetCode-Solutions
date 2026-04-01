@@ -13,7 +13,7 @@ public:
     ListNode* reverseList(ListNode* head) {
         ListNode*prev=NULL;
         ListNode*curnt=head;
-        ListNode*front=NULL;
+        ListNode*front=head;
         while(curnt!=NULL){
             front=curnt->next; // aage ka link toda or front me store kiya 
             curnt->next=prev; //current ko aage leke gye 
