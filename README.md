@@ -58,6 +58,7 @@ Maintained by Manish Pareek
 | [0345-reverse-vowels-of-a-string](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0394-decode-string](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
@@ -282,6 +283,7 @@ Maintained by Manish Pareek
 | [0234-palindrome-linked-list](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -337,6 +339,7 @@ Maintained by Manish Pareek
 | [0020-valid-parentheses](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [1021-remove-outermost-parentheses](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
