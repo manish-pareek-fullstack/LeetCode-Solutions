@@ -338,6 +338,7 @@ Maintained by Manish Pareek
 | ------- |
 | [0020-valid-parentheses](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [1021-remove-outermost-parentheses](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -376,4 +377,8 @@ Maintained by Manish Pareek
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
