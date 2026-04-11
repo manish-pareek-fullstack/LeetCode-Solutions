@@ -259,6 +259,7 @@ Maintained by Manish Pareek
 | ------- |
 | [0067-add-binary](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0342-power-of-four) |
@@ -314,6 +315,7 @@ Maintained by Manish Pareek
 | ------- |
 | [0053-maximum-subarray](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Heap (Priority Queue)
