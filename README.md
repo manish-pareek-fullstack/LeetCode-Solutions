@@ -328,6 +328,7 @@ Maintained by Manish Pareek
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0933-number-of-recent-calls](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0933-number-of-recent-calls) |
 ## Number Theory
 |  |
 | ------- |
@@ -381,4 +382,9 @@ Maintained by Manish Pareek
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0155-min-stack) |
+| [0933-number-of-recent-calls](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
